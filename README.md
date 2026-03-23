@@ -3,7 +3,7 @@
 💻 Junior Full Stack Developer (PHP)  
 🚀 Focused on building scalable backend systems & responsive web apps  
 
-I value clean code, good practices, and collaborative work. I'm constantly exploring new technologies and embracing challenges.
+Passionate about clean code, solid practices, and teamwork. Constantly learning and exploring new technologies while taking on new challenges.
 
 ---
 
@@ -64,6 +64,7 @@ I value clean code, good practices, and collaborative work. I'm constantly explo
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Beltran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexbeltranrt)
+
 📩 alexbeltranrt@gmail.com
 
 ---
